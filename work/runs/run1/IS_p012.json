@@ -1,0 +1,45 @@
+{
+  "doc": "implementation strategy",
+  "pdf_page": 12,
+  "rows": [
+    {
+      "code": "Food assistance",
+      "role": "partners",
+      "quote": "Valdez Food Bank",
+      "speaker": "hospital",
+      "entity": "Valdez Food Bank",
+      "inferred": true,
+      "note": "Appears in a partner list that has no heading on this page; no joint program is described.",
+      "confidence": "low"
+    },
+    {
+      "code": "Crime/Violence",
+      "role": "partners",
+      "quote": "Advocates for Victims of Violence",
+      "speaker": "hospital",
+      "entity": "Advocates for Victims of Violence",
+      "inferred": true,
+      "note": "Appears in a partner list that has no heading on this page; no joint program is described.",
+      "confidence": "low"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "runs it",
+      "quote": "Enhance access to primary care services through provider recruitment",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Recruiting providers into the local health care workforce (target 4-5 primary care providers).",
+      "confidence": "high"
+    }
+  ],
+  "uncovered_topics": [
+    "primary care access and physician coverage targets",
+    "chronic disease self-management education",
+    "traumatic injury prevention",
+    "preventive care and screening (endoscopy)",
+    "health and wellness fairs",
+    "physical health (umbrella priority)"
+  ],
+  "page_summary": "End of the partner list for the previous priority, then Table 3 (physical health): primary care provider recruitment, chronic disease education, preventive care."
+}

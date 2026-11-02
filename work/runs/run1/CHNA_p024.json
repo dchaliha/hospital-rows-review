@@ -1,0 +1,84 @@
+{
+  "doc": "CHNA",
+  "pdf_page": 24,
+  "rows": [
+    {
+      "code": "Women's Health",
+      "role": "partners",
+      "quote": "PVMC also established a partnership with Little Sparrow, a new local pregnancy center, supporting prenatal and childbirth education, lactation support, and car seat distribution.",
+      "speaker": "hospital",
+      "entity": "Little Sparrow",
+      "inferred": false,
+      "note": "Partnership stated explicitly; prenatal and childbirth education, lactation support.",
+      "confidence": "high"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Established virtual Intensive Outpatient Treatment for Substance Use Disorders to bring services to individuals who are not able to receive services in person.",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": true,
+      "note": "Actor is implicit in the progress table (no subject in the sentence); assumed to be the hospital.",
+      "confidence": "high"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "partners",
+      "quote": "Initiated co-response with law enforcement for crisis intervention to better support first responders as well as families and individuals in crisis in the community.",
+      "speaker": "hospital",
+      "entity": "law enforcement",
+      "inferred": true,
+      "note": "Collaboration with law enforcement described; formality not stated.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "runs it",
+      "quote": "PVCC initiated a six-month resilience building course for nursing, providing wellness and resilience strategies.",
+      "speaker": "hospital",
+      "entity": "PVCC",
+      "inferred": false,
+      "note": "Training for existing nursing staff (resilience course), not recruitment; partial fit to the code.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "partners",
+      "quote": "PVMC also joined a Caregiver Wellness and Burnout Pilot project through the Alaska Hospital and Healthcare Association in 2023.",
+      "speaker": "hospital",
+      "entity": "Alaska Hospital and Healthcare Association",
+      "inferred": true,
+      "note": "Joined a pilot through an association; this is workforce wellness rather than training or recruiting, so the code fit is loose.",
+      "confidence": "low"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "runs it",
+      "quote": "We have intensively addressed staffing issues through directly employing traveling staff,",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Staffing and recruitment; the sentence is cut at the end of the page.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Weight Management and Obesity",
+      "role": "runs it",
+      "quote": "Established community activities, including disc golf for families and children to increase healthy activities utilizing disc golf as a model challenge",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": true,
+      "note": "Physical-activity promotion; actor implicit in the progress table.",
+      "confidence": "medium"
+    }
+  ],
+  "uncovered_topics": [
+    "childcare (Families Alliance partnership, City of Valdez Childcare Task Force)",
+    "hospital campus expansion: long-term care beds, emergency department redesign, CT scanner",
+    "primary care and public health expansion",
+    "caregiver wellness and burnout",
+    "parent education and engagement"
+  ],
+  "page_summary": "Evaluation table continued: healthy lifestyle and barriers-to-access strategies with the hospital's progress (pregnancy center partnership, childcare, campus expansion, workforce)."
+}

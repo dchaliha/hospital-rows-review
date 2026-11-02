@@ -1,0 +1,65 @@
+{
+  "doc": "CHNA",
+  "pdf_page": 33,
+  "rows": [
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "Key informants were concerned about the use/misuse of alcohol, methamphetamines, marijuana, cocaine, and opioids.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Community concern reported from interviews; the hospital's own prioritization is not on this page.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "They noted more concern about suicide and suicidal ideation, noting that suicide prevention needs to be a community effort, rather than only a clinical one.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Informant concern about suicide; not a hospital statement.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "There have been efforts to distribute naloxone kits to prevent opioid overdoses, although there is a potential need for inpatient substance use disorder (SUD) treatment in the community.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Who distributed naloxone is not stated, so this is coded as a reported need, not a hospital action.",
+      "confidence": "low"
+    },
+    {
+      "code": "Financial/Insurance Assistance",
+      "role": "names it a priority",
+      "quote": "Mental health care can also be prohibitively expensive for people, with some people not able to afford the care they need.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Affordability of care raised by informants; no hospital financial-assistance action on this page.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "names it a priority",
+      "quote": "Key informants spoke to the importance of creating a pipeline for developing the behavioral health workforce in jobs like social work.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Workforce pipeline raised by informants.",
+      "confidence": "medium"
+    }
+  ],
+  "uncovered_topics": [
+    "behavioral health funding and reimbursement models",
+    "provider burnout and turnover",
+    "EMS 911 calls for mental health needs",
+    "COVID-19 impacts on mental health and jobs",
+    "stigma: mental health seen as a personal problem",
+    "subsidized education and cost of living for trainees"
+  ],
+  "page_summary": "Key informant interview synthesis on behavioral health: substance use, mental health, suicide, affordability, and workforce, with verbatim informant quotes."
+}

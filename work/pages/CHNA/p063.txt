@@ -1,0 +1,39 @@
+Well-being Segment 
+Demographics
+The HWBM Well-being segments differ across demographic 
+characteristics in your community. Understanding these demographic 
+characteristics can help you to better target groups most in need of 
+additional help or resources.
+While we can identify trends across demographics and well-being 
+segments, it is important to note that some portion of each 
+demographic falls into each segment. However, these profiles provide 
+a good overview of who is most likely to be flourishing, struggling, etc. 
+Key Findings
+• FLOURISHING. Most likely flourishing in your community 
+include women, couples, and those with kids.  
+• DOING WELL. Similarly, those most likely doing well include 
+women, those age 55+, and couples, but also those with no 
+kids and higher income earners ($100k+ per year).  
+• MIXED. About a third of each demographic group is mixed.
+• STRUGGLING. Most likely to be struggling in your 
+community are men, those age 18-34, single people, and 
+individuals with incomes under $100k.
+Gender
+Age
+Household*
+Income
+* Multi-generational households excluded from analysis here and 
+throughout the report due to small sample size (n6).
+Struggling: 
+All Low Scores
+(0-6)
+Mixed: 
+Varied High & Low
+(0-10)
+Doing Well: 
+All Positive
+(7-10)
+Flourishing: 
+All Very High
+(9-10)
+arrows signify statistically significant difference from previous year  

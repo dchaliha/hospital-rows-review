@@ -1,0 +1,64 @@
+{
+  "doc": "CHNA",
+  "pdf_page": 23,
+  "rows": [
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "The 2020 CHNA and 2021-2023 CHIP priorities were the following: Mental health/ substance misuse,",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Prior cycle (2021-2023) priority list.",
+      "confidence": "high"
+    },
+    {
+      "code": "Weight Management and Obesity",
+      "role": "names it a priority",
+      "quote": "healthy lifestyle (e.g. chronic disease, overweight/obesity, physical activity, etc.)",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Obesity appears as an example under the broader 'healthy lifestyle' priority.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Hired a peer support specialist who provided programming activities including monthly recovery dinner, cribbage club, wellness hours at the community college gym",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Progress table of the hospital's own CHIP; the page attributes these investments to Providence Valdez Medical Center.",
+      "confidence": "high"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "partners",
+      "quote": "Initiated co-response with law enforcement for crisis intervention to better support first responders, as well as families and individuals in crisis in the community.",
+      "speaker": "hospital",
+      "entity": "law enforcement",
+      "inferred": true,
+      "note": "Co-response with law enforcement is described; no formal agreement is stated, so 'partners' is inferred.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Established virtual Intensive Outpatient Treatment for Substance Use Disorder to bring services to individuals who are not able to receive services in person.",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Virtual intensive outpatient treatment run by the hospital.",
+      "confidence": "high"
+    }
+  ],
+  "uncovered_topics": [
+    "chronic disease",
+    "barriers to appropriate healthcare access (right care, right time, right place)",
+    "social determinants of health",
+    "telehealth / virtual treatment",
+    "stigma reduction and recovery event branding"
+  ],
+  "page_summary": "Evaluation table of the 2021-2023 CHIP: the hospital's progress on mental health and substance use strategies (peer support, recovery events, virtual IOP, co-response with law enforcement)."
+}

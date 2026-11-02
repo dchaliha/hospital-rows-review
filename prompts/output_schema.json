@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PageCoding",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["doc", "pdf_page", "rows", "uncovered_topics", "page_summary"],
+  "properties": {
+    "doc": { "type": "string", "enum": ["CHNA", "implementation strategy"] },
+    "pdf_page": { "type": "integer", "minimum": 1 },
+    "rows": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["code", "role", "quote", "speaker", "entity", "inferred", "note", "confidence"],
+        "properties": {
+          "code": {
+            "type": "string",
+            "enum": [
+              "Food assistance",
+              "Housing assistance",
+              "Education and Workforce",
+              "Vaccine Access",
+              "Mental Health, Substance Use Disorder, Addiction Services",
+              "Crime/Violence",
+              "Smoking/Vaping",
+              "Weight Management and Obesity",
+              "Mobile/Remote Clinics",
+              "Rural Health/Rural Clinics",
+              "Immigrant Health Access",
+              "Women's Health",
+              "Financial/Insurance Assistance",
+              "Safety Net Assistance"
+            ]
+          },
+          "role": { "type": "string", "enum": ["runs it", "partners", "funds it", "names it a priority"] },
+          "quote": { "type": "string", "description": "Verbatim text from this page, at most 40 words, no ellipses." },
+          "speaker": { "type": "string", "enum": ["hospital", "key_informant", "survey_respondent", "resource_list", "other"] },
+          "entity": { "type": "string", "description": "Named program or outside organization that appears on this page, else empty string." },
+          "inferred": { "type": "boolean", "description": "true if the code or role is not literally stated on the page." },
+          "note": { "type": "string", "description": "What was inferred, or why confidence is not high. Empty string if nothing to say." },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "uncovered_topics": { "type": "array", "items": { "type": "string" }, "description": "Short phrases for topics on this page that none of the 14 codes cover." },
+    "page_summary": { "type": "string" }
+  }
+}

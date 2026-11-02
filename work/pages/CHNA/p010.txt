@@ -1,0 +1,49 @@
+PVMC CHNA—2023 
+10 
+We reviewed data from the following sources: 
+Primary Data Sources 
+Secondary Data Sources 
+• 
+Key informant interviews 
+• 
+Health and Wellbeing Monitor 
+community health survey 
+• 
+Internal hospital utilization data 
+• 
+American Community Survey 
+• 
+Behavioral Risk Factor Surveillance System (BRFSS) 
+• 
+U.S. Decennial Census  
+ 
+Data Limitations and Information Gaps 
+To better understand the makeup of the Valdez community, we consulted publicly available 
+demographic data, although due to small sample sizes, the data should be interpreted with caution and 
+in context. We also fielded our own survey, the 2023 Valdez Community Health Survey, to collect up-to-
+date data. Additionally, community input provides some context to the quantitative data and helps tell a 
+more complete story. 
+While care was taken to select and gather data that would tell the story of the hospital’s service area, it 
+is important to recognize the limitations and gaps in information that naturally occur, including the 
+following:  
+• 
+Not all desired data were readily available, so sometimes we had to rely on tangential or proxy 
+measures or not have any data at all. For example, there is little community-level data on the 
+incidence of mental health or substance use. 
+• 
+While most indicators are relatively consistent from year to year, other indicators are changing 
+quickly (such as percentage of people uninsured) and the most recent data available are not a 
+good reflection of the current state. 
+• 
+Reporting data at the county level can mask inequities within communities. This can also be true 
+when reporting data by race, which can mask what is happening within racial and ethnic 
+subgroups. Therefore, when appropriate and available, we disaggregated the data by geography 
+and race. 
+• 
+Data that are gathered through interviews and surveys may be biased depending on who is 
+willing to respond to the questions and whether they are representative of the population as a 
+whole. 
+• 
+The accuracy of data gathered through interviews and surveys depends on how consistently the 
+questions are interpreted across all respondents and how honest people are in providing their 
+answers. 

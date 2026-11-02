@@ -1,0 +1,44 @@
+{
+  "doc": "CHNA",
+  "pdf_page": 25,
+  "rows": [
+    {
+      "code": "Education and Workforce",
+      "role": "partners",
+      "quote": "partnering with PWSC on pipeline programs (Certified Nursing Assistant and Registered Nursing Programs), hiring temporary (non-agency) staff, and additional recruitment strategies.",
+      "speaker": "hospital",
+      "entity": "PWSC",
+      "inferred": false,
+      "note": "Nursing pipeline programs with the college; 'partnering with' is stated, formality not specified.",
+      "confidence": "high"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Additionally, we are working towards adding a consulting psychologist to support onsite psychological assessments.",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "In progress rather than established: adding a consulting psychologist.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Conducted regular outreach to Fish Processing workers and Prince William Sound College students to educate these vulnerable populations about wellness including review of ACEs studies, mental and physical health, wellness strategies, and community resources.",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": true,
+      "note": "Wellness outreach that includes mental health; actor implicit in the table; partial fit to the code.",
+      "confidence": "medium"
+    }
+  ],
+  "uncovered_topics": [
+    "specialty care access (podiatry, ENT)",
+    "primary care clinic operations and EPIC launch",
+    "outreach to fish processing workers and college students (occupational risk)",
+    "social determinants of health (general)",
+    "ACEs education"
+  ],
+  "page_summary": "Evaluation table continued (workforce pipeline, specialty providers, SDOH outreach), then prose on how the next CHIP will address needs."
+}

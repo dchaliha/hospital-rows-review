@@ -1,0 +1,73 @@
+{
+  "doc": "implementation strategy",
+  "pdf_page": 11,
+  "rows": [
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "runs it",
+      "quote": "Continue to strengthen our community response for those at risk for suicide, including: crisis response programming, collaborating with law enforcement in the community setting, and providing Applied Suicide Intervention Skills Training (ASIST)",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "'Our community response': the hospital's own suicide and crisis response strategy.",
+      "confidence": "high"
+    },
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "partners",
+      "quote": "collaborating with law enforcement in the community setting",
+      "speaker": "hospital",
+      "entity": "law enforcement",
+      "inferred": true,
+      "note": "Collaboration stated; no formal agreement described.",
+      "confidence": "medium"
+    },
+    {
+      "code": "Education and Workforce",
+      "role": "runs it",
+      "quote": "providing Applied Suicide Intervention Skills Training (ASIST)",
+      "speaker": "hospital",
+      "entity": "ASIST",
+      "inferred": false,
+      "note": "Health-related training offered to the community (2-4 trainings per year in the measure).",
+      "confidence": "medium"
+    },
+    {
+      "code": "Financial/Insurance Assistance",
+      "role": "runs it",
+      "quote": "Provide outreach to populations at higher risk due to social determinants of health through charity care programming, assisting with Medicare/Medicaid applications, and educational programs",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Charity care programming.",
+      "confidence": "high"
+    },
+    {
+      "code": "Safety Net Assistance",
+      "role": "runs it",
+      "quote": "charity care programming, assisting with Medicare/Medicaid applications, and educational programs",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": false,
+      "note": "Same passage as the charity-care row; help with Medicare/Medicaid applications.",
+      "confidence": "high"
+    },
+    {
+      "code": "Housing assistance",
+      "role": "partners",
+      "quote": "Collaborate with community partners to address economic issues such as housing and childcare",
+      "speaker": "hospital",
+      "entity": "",
+      "inferred": true,
+      "note": "Collaboration on housing with unnamed community partners; the measure mentions local housing initiatives.",
+      "confidence": "medium"
+    }
+  ],
+  "uncovered_topics": [
+    "basic needs / economic security (umbrella priority)",
+    "childcare (Childcare Task Force)",
+    "system-level resource commitment: funding, staffing, equipment",
+    "key community partners list (city, state, business leaders)"
+  ],
+  "page_summary": "Strategy tables: end of the behavioral health table (suicide response) and the basic needs / economic security table (charity care, Medicaid applications, housing and childcare collaboration), plus resource commitment and partners."
+}

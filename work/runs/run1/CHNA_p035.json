@@ -1,0 +1,25 @@
+{
+  "doc": "CHNA",
+  "pdf_page": 35,
+  "rows": [
+    {
+      "code": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "Because many people in Valdez are self-reliant and independent, they may be hesitant to reach out for help, particularly when it relates to behavioral health needs.",
+      "speaker": "key_informant",
+      "entity": "",
+      "inferred": true,
+      "note": "Hesitancy to seek behavioral health help, reported from interviews; the rest of the page is social connection and childcare, which no code covers.",
+      "confidence": "low"
+    }
+  ],
+  "uncovered_topics": [
+    "social connection and isolation",
+    "bullying in schools",
+    "lack of childcare centers",
+    "early childhood education, ages zero to three",
+    "school readiness",
+    "community resilience"
+  ],
+  "page_summary": "Key informant themes on social connection and the lack of affordable childcare; almost nothing on this page fits the codebook."
+}

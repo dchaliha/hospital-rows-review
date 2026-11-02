@@ -1,0 +1,6 @@
+node_modules
+dist
+public/pages
+public/data/batch.real.json
+.gstack/
+public/uploads

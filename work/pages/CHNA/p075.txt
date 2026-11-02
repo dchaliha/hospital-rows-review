@@ -1,0 +1,5 @@
+A3a: What was the primary reason for your most recent visit? 
+A3. Have you needed health care in the last 12 months and were you able 
+to receive it?
+A3b. Why couldn't you receive health care?
+A3c. What type of health care did you go without? 

@@ -1,0 +1,8 @@
+Tailored Questions
+A2: In the last 12 months, have you or a family member needed 
+mental health services (counseling or other help)?
+A2a: Were you able to receive the needed mental health services? 
+A11. Which answer best describes your housing situation for the 
+majority of the past 12 months? 
+A2br: Why couldn’t you receive needed mental health services?
+arrows signify statistically significant difference from previous year  

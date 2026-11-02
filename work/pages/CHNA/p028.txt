@@ -1,0 +1,43 @@
+PVMC CHNA—2023 
+28 
+ 
+Facilitation Guides 
+For the key informant interviews, Providence developed a facilitation guide that was used across all 
+hospitals completing their 2023 CHNAs: 
+• 
+The community served by the key informant’s organization  
+• 
+The community strengths 
+• 
+Prioritization and discussion of unmet health related needs in the community, including social 
+determinants of health 
+• 
+Suggestions for how to leverage community strengths to address community needs 
+• 
+Successful community health initiatives and programs 
+• 
+Opportunities for collaboration between organizations to address health equity 
+Training 
+The facilitation guides provided instructions on how to conduct a key informant interview and listening 
+session, including basic language on framing the purpose of the sessions. Facilitators participated in 
+trainings on how to successfully facilitate a key informant interview and listening session and were 
+provided question guides.  
+Data Collection 
+Key informant interviews were conducted virtually, and information was collected in one of two ways: 1) 
+recorded with the participant’s permission or 2) a note taker documented the conversation. Two note 
+takers documented the listening session conversations. 
+Analysis 
+Qualitative data analysis was conducted by Providence using Atlas.ti, a qualitative data analysis 
+software. The data were coded into themes, which allows the grouping of similar ideas across the 
+interviews, while preserving the individual voice.  
+If applicable, the recorded interviews were sent to a third party for transcription, or the notes were 
+typed and reviewed. The key informant names were removed from the files and assigned a number to 
+reduce the potential for coding bias. The files were imported into Atlas.ti. The analyst used a standard 
+list of codes, or common topics that are mentioned multiple times. These codes represent themes from 
+the dataset and help organize the notes into smaller pieces of information that can be rearranged to tell 
+a story. The analyst developed a definition for each code which explained what information would be 
+included in that code. The analyst coded eight domains relating to the topics of the questions: 1) name, 
+title, and organization of key informant, 2) population served by organization, 3) greatest community 
+strength and opportunities to leverage these strengths 4) unmet health-related needs, 5) 
+disproportionately affected population, 6) effects of COVID-19, 7) successful programs and initiatives, 
+and 8) opportunities to work together.  

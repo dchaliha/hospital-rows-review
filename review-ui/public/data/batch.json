@@ -1,0 +1,588 @@
+{
+  "runId": "run-2026-11-01-a",
+  "documents": [
+    {
+      "id": "docA",
+      "sourceName": "Mercy Valley Regional Hospital CHNA 2023",
+      "docType": "CHNA",
+      "year": 2023,
+      "pageCount": 75,
+      "pageImage": {
+        "kind": "placeholder"
+      },
+      "pageTexts": {
+        "1": "Mercy Valley Regional Hospital\nCommunity Health Needs Assessment 2023",
+        "2": "Table of contents\nExecutive summary 4\nCommunity profile 7\nCommunity input 17\nEvaluation of the 2020 plan 23\nKey informant interviews 27\nCommunity resources 38\nSurvey report 45",
+        "3": "Acknowledgements\nThe hospital thanks the residents, partners and staff who contributed to this assessment.",
+        "4": "Executive summary (continued)\n\nThis is placeholder narrative for page 4 of the mock assessment, part of the executive summary section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "5": "Executive summary\n\nThe assessment identified behavioral health, including mental health and substance use, as the community's most significant health need. Residents, clinicians and community partners described long waits for counseling, a shortage of providers who accept Medicaid, and rising overdose deaths in the county.\n\nHousing instability and the cost of rent were raised in every focus group and ranked second among prioritized needs. Focus group participants connected housing to nearly every other issue raised, from missed appointments to untreated chronic conditions.\n\nBasic needs such as food, transportation and child care were grouped as a single priority area. Residents asked that the hospital keep these issues together because the same families are affected by all of them.",
+        "6": "Executive summary (continued)\n\nThis is placeholder narrative for page 6 of the mock assessment, part of the executive summary section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "7": "Community profile (continued)\n\nThis is placeholder narrative for page 7 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "8": "Community profile (continued)\n\nThis is placeholder narrative for page 8 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "9": "Community profile (continued)\n\nThis is placeholder narrative for page 9 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "10": "Community profile (continued)\n\nThis is placeholder narrative for page 10 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "11": "Community profile (continued)\n\nThis is placeholder narrative for page 11 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "12": "Community profile (continued)\n\nThis is placeholder narrative for page 12 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "13": "Community profile (continued)\n\nThis is placeholder narrative for page 13 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "14": "Community profile (continued)\n\nThis is placeholder narrative for page 14 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "15": "Community profile (continued)\n\nThis is placeholder narrative for page 15 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "16": "Community profile (continued)\n\nThis is placeholder narrative for page 16 of the mock assessment, part of the community profile section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "17": "Community input (continued)\n\nThis is placeholder narrative for page 17 of the mock assessment, part of the community input section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "18": "Community input: focus groups and listening sessions\n\nSix focus groups were held between March and May 2023 with 54 participants. Several residents said they no longer feel safe walking to the clinic after dark. Others described a lack of lighting along the main road and asked for later bus service.\n\nFamilies who speak Spanish described waits of several weeks for appointments with an interpreter, and some said they brought a child to translate instead.\n\nTransportation to specialty appointments in the city remains the biggest barrier for seniors. Several participants said they had stopped seeing a specialist altogether because of the drive.",
+        "19": "Community input (continued)\n\nThis is placeholder narrative for page 19 of the mock assessment, part of the community input section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "20": "Community input (continued)\n\nThis is placeholder narrative for page 20 of the mock assessment, part of the community input section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "21": "Prioritized community health needs\n\nThe steering committee ranked needs using severity, the number of people affected, and the hospital’s ability to act. The five priorities are listed below.\n\nPriority 1: Behavioral health, including mental health and substance use.\n\nPriority 2: Housing and basic needs.\n\nPriority 3: Healthy weight, nutrition and physical activity for children and adults.\n\nPriority 4: Tobacco and vaping prevention among youth.\n\nPriority 5: Access to care, including primary care, dental care and transportation. Access to prenatal and maternal care was listed under access to care.",
+        "22": "Community input (continued)\n\nThis is placeholder narrative for page 22 of the mock assessment, part of the community input section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "23": "Evaluation of the 2020 plan (continued)\n\nThis is placeholder narrative for page 23 of the mock assessment, part of the evaluation of the 2020 plan section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "24": "Evaluation of the 2020 implementation plan\n\nFood security. In partnership with the Valley Food Bank, the hospital hosted a monthly produce distribution in the clinic parking lot. Over three years the distributions served about 400 households a month. The hospital's community benefit fund awarded $25,000 to the Valley Food Bank to expand weekend meal programs for students.\n\nImmunization. Hospital staff ran drive-through flu and COVID-19 vaccine clinics on six Saturdays, giving 1,840 doses. Volunteers from the county health department staffed registration.\n\nWorkforce. The hospital expanded its nurse residency program to twelve positions, added a paid medical assistant apprenticeship with the community college, and offered tuition reimbursement to forty employees pursuing clinical degrees, with the goal of filling vacancies that had remained open for more than a year.",
+        "25": "Evaluation of the 2020 implementation plan, continued\n\nBehavioral health. The hospital and Valley Behavioral Health co-located a crisis counselor in the emergency department, supported by a hospital grant. The counselor saw 1,120 patients in the first year.\n\nFinancial assistance. Financial counselors screened every uninsured patient for charity care and enrolled 612 people in the hospital's financial assistance program. The hospital also simplified its application from six pages to two.\n\nCoverage. Enrollment specialists helped 388 patients complete Medicaid applications at the bedside. Outreach to the outlying communities is described on the next page.",
+        "26": "Evaluation of the 2020 implementation plan, continued\n\nOutreach. The mobile health unit visited the three outlying communities every other week. Visits included blood pressure checks, vaccinations and help with prescriptions.\n\nThe unit was taken out of service for four months in 2022 for repairs, and visits resumed in early 2023.",
+        "27": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 27 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "28": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 28 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "29": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 29 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "30": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 30 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "31": "Key informant interviews\n\nA school nurse: \"Kids are coming to school hungry and anxious, and we have one counselor for 600 students.\"\n\nA clinic manager in the north end: \"People up the valley drive ninety minutes for a routine visit, and in winter they just don't go.\"\n\nAn emergency department social worker: \"We see patients discharged to a tent because there is nowhere else.\"",
+        "32": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 32 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "33": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 33 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "34": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 34 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "35": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 35 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "36": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 36 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "37": "Key informant interviews (continued)\n\nThis is placeholder narrative for page 37 of the mock assessment, part of the key informant interviews section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "38": "Community resources (continued)\n\nThis is placeholder narrative for page 38 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "39": "Community resources (continued)\n\nThis is placeholder narrative for page 39 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "40": "Community resources: food, housing and basic needs\n\nValley Food Bank – weekly pantry, Tuesdays and Fridays, no ID required.\n\nMercy Valley Shelter – 24 beds, intake from 5 pm, call ahead in winter.\n\nValley Dental Van – free cleanings for children under 12, call for schedule.\n\nCounty Housing Authority – rental assistance applications, first Monday of each month.",
+        "41": "Community resources (continued)\n\nThis is placeholder narrative for page 41 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "42": "Community resources (continued)\n\nThis is placeholder narrative for page 42 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "43": "Community resources (continued)\n\nThis is placeholder narrative for page 43 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "44": "Community resources (continued)\n\nThis is placeholder narrative for page 44 of the mock assessment, part of the community resources section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "45": "Survey report (continued)\n\nThis is placeholder narrative for page 45 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "46": "Survey report (continued)\n\nThis is placeholder narrative for page 46 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "47": "Survey report (continued)\n\nThis is placeholder narrative for page 47 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "48": "Survey report (continued)\n\nThis is placeholder narrative for page 48 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "49": "Survey report (continued)\n\nThis is placeholder narrative for page 49 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "50": "Survey report (continued)\n\nThis is placeholder narrative for page 50 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "51": "Survey report (continued)\n\nThis is placeholder narrative for page 51 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "52": "Survey report (continued)\n\nThis is placeholder narrative for page 52 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "53": "Survey report (continued)\n\nThis is placeholder narrative for page 53 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "54": "Survey report (continued)\n\nThis is placeholder narrative for page 54 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "55": "Survey report (continued)\n\nThis is placeholder narrative for page 55 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "56": "Survey report (continued)\n\nThis is placeholder narrative for page 56 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "57": "Survey report (continued)\n\nThis is placeholder narrative for page 57 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "58": "Survey report (continued)\n\nThis is placeholder narrative for page 58 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "59": "Survey report (continued)\n\nThis is placeholder narrative for page 59 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "60": "Survey report (continued)\n\nThis is placeholder narrative for page 60 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "61": "Survey report (continued)\n\nThis is placeholder narrative for page 61 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "62": "Survey report (continued)\n\nThis is placeholder narrative for page 62 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "63": "Survey report (continued)\n\nThis is placeholder narrative for page 63 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "64": "Survey report (continued)\n\nThis is placeholder narrative for page 64 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "65": "Survey report (continued)\n\nThis is placeholder narrative for page 65 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "66": "Survey report (continued)\n\nThis is placeholder narrative for page 66 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "67": "Survey report (continued)\n\nThis is placeholder narrative for page 67 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "68": "Survey report (continued)\n\nThis is placeholder narrative for page 68 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "69": "Survey report (continued)\n\nThis is placeholder narrative for page 69 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "70": "Survey report (continued)\n\nThis is placeholder narrative for page 70 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "71": "Survey report (continued)\n\nThis is placeholder narrative for page 71 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "72": "Survey report (continued)\n\nThis is placeholder narrative for page 72 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "73": "Survey report (continued)\n\nThis is placeholder narrative for page 73 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "74": "Survey report (continued)\n\nThis is placeholder narrative for page 74 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page.",
+        "75": "Survey report (continued)\n\nThis is placeholder narrative for page 75 of the mock assessment, part of the survey report section. It contains no findings that fit the label set.\n\nThe pipeline produced no rows for this page."
+      },
+      "skippedPages": [
+        1,
+        2,
+        3,
+        75
+      ]
+    },
+    {
+      "id": "docB",
+      "sourceName": "Mercy Valley Regional Hospital Implementation Strategy 2024–2026",
+      "docType": "implementation strategy",
+      "year": 2024,
+      "pageCount": 15,
+      "pageImage": {
+        "kind": "placeholder"
+      },
+      "pageTexts": {
+        "1": "Mercy Valley Regional Hospital\nImplementation Strategy 2024–2026",
+        "2": "Table of contents\nSummary 3\nHow priorities were chosen 5\nStrategies by priority 9",
+        "3": "Implementation strategy, page 3\n\nPlaceholder narrative with no findings that fit the label set.",
+        "4": "Summary of priorities\n\nPriority 1: Mental health and substance use. Priority 2: Basic needs and economic security. Priority 3: Access to care. Needs the hospital will not address directly, such as transportation, are noted on page 8 with the organizations better placed to lead.",
+        "5": "Implementation strategy, page 5\n\nPlaceholder narrative with no findings that fit the label set.",
+        "6": "Implementation strategy, page 6\n\nPlaceholder narrative with no findings that fit the label set.",
+        "7": "Implementation strategy, page 7\n\nPlaceholder narrative with no findings that fit the label set.",
+        "8": "Implementation strategy, page 8\n\nPlaceholder narrative with no findings that fit the label set.",
+        "9": "Implementation strategy, page 9\n\nPlaceholder narrative with no findings that fit the label set.",
+        "10": "Priority 1: Mental health and substance use\n\nStrategy 1.1: Add two licensed counselors to the primary care clinic by 2025.\n\nStrategy 1.2: Partner with the county crisis line to add a warm handoff from the emergency department to outpatient counseling.\n\nStrategy 1.3: Train 200 community members in Mental Health First Aid through hospital-led classes each year.\n\nMeasures: counseling wait time under 14 days; number of warm handoffs; number trained.",
+        "11": "Priority 2: Basic needs and economic security\n\nStrategy 2.1: Offer Medicaid and SNAP application help at every financial counseling visit.\n\nStrategy 2.2: Collaborate with community partners on housing, including the regional housing coalition.\n\nPriority 3: Access to care\n\nStrategy 3.1: Expand the hospital's diabetes prevention and healthy weight classes to two evenings per week.\n\nMeasures: applications completed; coalition meetings attended; class enrollment.",
+        "12": "Implementation strategy, page 12\n\nPlaceholder narrative with no findings that fit the label set.",
+        "13": "Implementation strategy, page 13\n\nPlaceholder narrative with no findings that fit the label set.",
+        "14": "Implementation strategy, page 14\n\nPlaceholder narrative with no findings that fit the label set.",
+        "15": "Implementation strategy, page 15\n\nPlaceholder narrative with no findings that fit the label set."
+      },
+      "skippedPages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "docId": "docA",
+      "pdfPage": 5,
+      "label": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "The assessment identified behavioral health, including mental health and substance use, as the community's most significant health need.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Executive summary"
+    },
+    {
+      "id": "r02",
+      "docId": "docA",
+      "pdfPage": 5,
+      "label": "Housing assistance",
+      "role": "names it a priority",
+      "quote": "Housing instability and the cost of rent were raised in every focus group and ranked second among prioritized needs.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Executive summary"
+    },
+    {
+      "id": "r03",
+      "docId": "docA",
+      "pdfPage": 5,
+      "label": "Food assistance",
+      "role": "names it a priority",
+      "quote": "Basic needs such as food, transportation and child care were grouped as a single priority area.",
+      "evidenceType": "stated",
+      "flags": [
+        "needs_look"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Executive summary",
+      "flagNotes": {
+        "needs_look": "Food is mentioned only as part of a list of basic needs"
+      }
+    },
+    {
+      "id": "r04",
+      "docId": "docA",
+      "pdfPage": 18,
+      "label": "Crime/Violence",
+      "role": "names it a priority",
+      "quote": "Several residents said they no longer feel safe walking to the clinic after dark.",
+      "evidenceType": "inferred",
+      "flags": [
+        "inferred"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Community input",
+      "inferredNote": "Residents raised safety; the hospital does not state it as a priority on this page",
+      "population": "Residents near the clinic"
+    },
+    {
+      "id": "r05",
+      "docId": "docA",
+      "pdfPage": 18,
+      "label": "Immigrant Health Access",
+      "role": "names it a priority",
+      "quote": "Spanish-speaking families reported waiting weeks for an interpreter appointment.",
+      "evidenceType": "stated",
+      "flags": [
+        "quote_not_on_page"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Community input",
+      "population": "Spanish-speaking families"
+    },
+    {
+      "id": "r06",
+      "docId": "docA",
+      "pdfPage": 18,
+      "label": "no fit",
+      "role": "names it a priority",
+      "quote": "Transportation to specialty appointments in the city remains the biggest barrier for seniors.",
+      "evidenceType": "stated",
+      "flags": [
+        "no_fit"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Community input",
+      "population": "Seniors"
+    },
+    {
+      "id": "r07",
+      "docId": "docA",
+      "pdfPage": 21,
+      "label": "Weight Management and Obesity",
+      "role": "names it a priority",
+      "quote": "Priority 3: Healthy weight, nutrition and physical activity for children and adults.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Prioritized needs",
+      "population": "Children and adults"
+    },
+    {
+      "id": "r08",
+      "docId": "docA",
+      "pdfPage": 21,
+      "label": "Smoking/Vaping",
+      "role": "names it a priority",
+      "quote": "Priority 4: Tobacco and vaping prevention among youth.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Prioritized needs",
+      "population": "Youth"
+    },
+    {
+      "id": "r09",
+      "docId": "docA",
+      "pdfPage": 21,
+      "label": "Women's Health",
+      "role": "names it a priority",
+      "quote": "Access to prenatal and maternal care was listed under access to care.",
+      "evidenceType": "stated",
+      "flags": [
+        "needs_look"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Prioritized needs",
+      "flagNotes": {
+        "needs_look": "Maternal care appears as a sub-item under access to care, not as a priority of its own"
+      }
+    },
+    {
+      "id": "r10",
+      "docId": "docA",
+      "pdfPage": 24,
+      "label": "Food assistance",
+      "role": "partners",
+      "quote": "In partnership with the Valley Food Bank, the hospital hosted a monthly produce distribution in the clinic parking lot.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "entityNamed": "Valley Food Bank"
+    },
+    {
+      "id": "r11",
+      "docId": "docA",
+      "pdfPage": 24,
+      "label": "Food assistance",
+      "role": "funds it",
+      "quote": "The hospital's community benefit fund awarded $25,000 to the Valley Food Bank to expand weekend meal programs for students.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "entityNamed": "Valley Food Bank",
+      "population": "Students"
+    },
+    {
+      "id": "r12",
+      "docId": "docA",
+      "pdfPage": 24,
+      "label": "Vaccine Access",
+      "role": "runs it",
+      "quote": "Hospital staff ran drive-through flu and COVID-19 vaccine clinics on six Saturdays, giving 1,840 doses.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan"
+    },
+    {
+      "id": "r13",
+      "docId": "docA",
+      "pdfPage": 24,
+      "label": "Vaccine Access",
+      "role": "runs it",
+      "quote": "drive-through flu and COVID-19 vaccine clinics on six Saturdays, giving 1,840 doses.",
+      "evidenceType": "stated",
+      "flags": [
+        "dup"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "flagNotes": {
+        "dup": "Overlaps with the drive-through vaccine clinic row on this page"
+      }
+    },
+    {
+      "id": "r14",
+      "docId": "docA",
+      "pdfPage": 24,
+      "label": "Education and Workforce",
+      "role": "runs it",
+      "quote": "The hospital expanded its nurse residency program to twelve positions, added a paid medical assistant apprenticeship with the community college, and offered tuition reimbursement to forty employees pursuing clinical degrees, with the goal of filling vacancies that had remained open for more than a year.",
+      "evidenceType": "stated",
+      "flags": [
+        "over_limit"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "entityNamed": "community college"
+    },
+    {
+      "id": "r15",
+      "docId": "docA",
+      "pdfPage": 25,
+      "label": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "partners",
+      "quote": "The hospital and Valley Behavioral Health co-located a crisis counselor in the emergency department, supported by a hospital grant.",
+      "evidenceType": "stated",
+      "flags": [
+        "runs_disagree"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "entityNamed": "Valley Behavioral Health",
+      "flagNotes": {
+        "runs_disagree": "Two runs disagreed: partners vs funds it"
+      }
+    },
+    {
+      "id": "r16",
+      "docId": "docA",
+      "pdfPage": 25,
+      "label": "Financial/Insurance Assistance",
+      "role": "runs it",
+      "quote": "Financial counselors screened every uninsured patient for charity care and enrolled 612 people in the hospital's financial assistance program.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "population": "Uninsured patients"
+    },
+    {
+      "id": "r17",
+      "docId": "docA",
+      "pdfPage": 25,
+      "label": "Safety Net Assistance",
+      "role": "runs it",
+      "quote": "Enrollment specialists helped 388 patients complete Medicaid applications at the bedside.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan"
+    },
+    {
+      "id": "r18",
+      "docId": "docA",
+      "pdfPage": 25,
+      "label": "Mobile/Remote Clinics",
+      "role": "runs it",
+      "quote": "The mobile health unit visited the three outlying communities every other week.",
+      "evidenceType": "stated",
+      "flags": [
+        "quote_not_on_page"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Evaluation of the 2020 plan",
+      "flagNotes": {
+        "quote_not_on_page": "Not on page 25; the same sentence is on page 26"
+      }
+    },
+    {
+      "id": "r19",
+      "docId": "docA",
+      "pdfPage": 31,
+      "label": "Rural Health/Rural Clinics",
+      "role": "names it a priority",
+      "quote": "People up the valley drive ninety minutes for a routine visit, and in winter they just don't go.",
+      "evidenceType": "inferred",
+      "flags": [
+        "inferred"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Key informant interviews",
+      "inferredNote": "An interviewee describes the need; the hospital has not adopted it as a priority on this page",
+      "population": "Residents up the valley"
+    },
+    {
+      "id": "r20",
+      "docId": "docA",
+      "pdfPage": 31,
+      "label": "Housing assistance",
+      "role": "names it a priority",
+      "quote": "We see patients discharged to a tent because there is nowhere else.",
+      "evidenceType": "inferred",
+      "flags": [
+        "inferred"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Key informant interviews",
+      "inferredNote": "Interviewee statement, not a hospital priority statement"
+    },
+    {
+      "id": "r21",
+      "docId": "docA",
+      "pdfPage": 40,
+      "label": "Food assistance",
+      "role": "partners",
+      "quote": "Valley Food Bank - weekly pantry, Tuesdays and Thursdays, no ID required.",
+      "evidenceType": "stated",
+      "flags": [
+        "quote_not_on_page"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Community resources",
+      "entityNamed": "Valley Food Bank"
+    },
+    {
+      "id": "r22",
+      "docId": "docA",
+      "pdfPage": 40,
+      "label": "no fit",
+      "role": "runs it",
+      "quote": "Valley Dental Van - free cleanings for children under 12, call for schedule.",
+      "evidenceType": "stated",
+      "flags": [
+        "no_fit"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Community resources",
+      "entityNamed": "Valley Dental Van",
+      "population": "Children under 12"
+    },
+    {
+      "id": "r23",
+      "docId": "docB",
+      "pdfPage": 4,
+      "label": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "names it a priority",
+      "quote": "Priority 1: Mental health and substance use. Priority 2: Basic needs and economic security. Priority 3: Access to care.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Summary"
+    },
+    {
+      "id": "r24",
+      "docId": "docB",
+      "pdfPage": 10,
+      "label": "Mental Health, Substance Use Disorder, Addiction Services",
+      "role": "partners",
+      "quote": "Strategy 1.2: Partner with the county crisis line to add a warm handoff from the emergency department to outpatient counseling.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Strategies, priority 1",
+      "entityNamed": "county crisis line"
+    },
+    {
+      "id": "r25",
+      "docId": "docB",
+      "pdfPage": 10,
+      "label": "Education and Workforce",
+      "role": "runs it",
+      "quote": "Strategy 1.3: Train 200 community members in Mental Health First Aid through hospital-led classes each year.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Strategies, priority 1",
+      "population": "Community members"
+    },
+    {
+      "id": "r26",
+      "docId": "docB",
+      "pdfPage": 11,
+      "label": "Safety Net Assistance",
+      "role": "runs it",
+      "quote": "Strategy 2.1: Offer Medicaid and SNAP application help at every financial counseling visit.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Strategies, priority 2"
+    },
+    {
+      "id": "r27",
+      "docId": "docB",
+      "pdfPage": 11,
+      "label": "Housing assistance",
+      "role": "partners",
+      "quote": "Strategy 2.2: Collaborate with community partners on housing, including the regional housing coalition.",
+      "evidenceType": "inferred",
+      "flags": [
+        "inferred"
+      ],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Strategies, priority 2",
+      "inferredNote": "Collaboration described; no formal agreement named",
+      "entityNamed": "regional housing coalition"
+    },
+    {
+      "id": "r28",
+      "docId": "docB",
+      "pdfPage": 11,
+      "label": "Weight Management and Obesity",
+      "role": "runs it",
+      "quote": "Strategy 3.1: Expand the hospital's diabetes prevention and healthy weight classes to two evenings per week.",
+      "evidenceType": "stated",
+      "flags": [],
+      "status": "pending",
+      "labelSetVersion": "codebook-sample-14-v1",
+      "runId": "run-2026-11-01-a",
+      "section": "Strategies, priority 3"
+    }
+  ]
+}
