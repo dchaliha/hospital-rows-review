@@ -11,3 +11,4 @@ review-ui/public/uploads/
 review-ui/public/data/batch.real.json
 review-ui/.gstack/
 work/test*/
+.gstack/

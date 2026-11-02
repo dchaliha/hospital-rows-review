@@ -8,20 +8,7 @@ Start: [__:__]  Stop: [__:__]  (two-hour hard stop; minutes per step in the Time
 
 ## Step 1. Sketch
 
-**Input to output.** One hospital's PDFs go in. Out comes one row per finding: doc, pdf_page, code, role, verbatim quote, plus provenance columns. Tens of rows per hospital, consolidated into one table across about 600 hospitals and 1,700 documents.
-
-**Pipeline.** C = plain code, L = model call, H = human.
-
-| # | Step | Who | What it does |
-|---|------|-----|--------------|
-| 1 | Parse | C | PyMuPDF splits each PDF into per-page text, word boxes, and a page image. Tables stay in reading order. Pages are hashed; identical pages across a hospital system (Providence files CHNAs for many facilities) are sent to the model once and the rows fanned out to every hospital that contains the page. |
-| 2 | Route | C, small L | Page is the unit because it is the document's natural unit and it makes every quote checkable. Deterministic rules skip cover, table of contents, and blank pages. Pages with little text (charts, infographics, like CHNA pp. 52–77) are routed to the model with the image attached rather than skipped, because a wrongly skipped page is a false negative nobody can see later. |
-| 3 | Extract | L, in parallel | One call per page with a frozen system prompt (codebook, roles, rules) and a JSON schema. Output per page: rows (code, role, quote, speaker, entity, inferred flag, note, confidence), `uncovered_topics`, and a one-line page summary. The codebook is passed in as data, not baked into the prompt. |
-| 4 | Verify | C | Every quote must appear verbatim on the cited page after normalizing whitespace, curly quotes, dashes, ligatures, and hyphenated line breaks. If a quote is found on a different page, that is flagged as a page-number error. Code and role must be in the enums; quote at most 40 words. |
-| 5 | Review | H | A browser review tool shows the page with each quote highlighted and one card per row. Flagged rows (quote not on page, inferred, low confidence, two runs disagreed, over limit, duplicate, no fit) come first and must be decided one by one. Clean rows are accepted individually or per page. A random slice of clean rows is also reviewed so precision is measured on the unflagged majority, not only on what the model doubted. Reviewers can edit any field, reject with a reason, or add a row by selecting text on the page. |
-| 6 | Consolidate | C | Dedupe near-identical quotes within (hospital, code, role), join hospital metadata (state, rural/urban, system, bed count), load one table, build charts from it. |
-
-Original sketch had a separate "row fill" model pass after extraction; I merged it into step 3 because a second model pass gives the quote a second chance to drift. A model pass is kept only as a repair step: rows that fail verification go back once with the error message.
+[Insert my pipeline sketch here: input to output, which steps are code and which are the model, where a person checks.]
 
 **Scale.** 1,700 documents at roughly 50 pages each is about 85,000 page calls (this hospital: 77 + 14; tax filings run longer). At 20 to 30 seconds per call and 10 to 20 concurrent requests, extraction is one to two days of wall-clock; the Batch API halves the cost and nothing is latency-sensitive. Verification takes seconds per hospital. Human review is the real budget: at about one minute per row on a 10 percent sample of, say, 40,000 rows, roughly 65 person-hours.
 

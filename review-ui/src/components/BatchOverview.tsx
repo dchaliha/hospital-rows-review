@@ -21,9 +21,11 @@ export function BatchOverview({ source, onSourceChange }: { source: SourceId; on
           <p className="mt-0.5 text-sm text-stone-600">Confirm, edit, or reject each row before it enters the database.</p>
         </div>
         <div className="flex flex-wrap items-center gap-2">
-          <select value={source} onChange={e => onSourceChange(e.target.value as SourceId)} aria-label="Batch" className="rounded border border-stone-300 bg-white px-2 py-1.5 text-sm text-stone-900">
-            {sources.map(([id, s]) => <option key={id} value={id}>{s.label}</option>)}
-          </select>
+          {sources.length > 1 && (
+            <select value={source} onChange={e => onSourceChange(e.target.value as SourceId)} aria-label="Batch" className="rounded border border-stone-300 bg-white px-2 py-1.5 text-sm text-stone-900">
+              {sources.map(([id, s]) => <option key={id} value={id}>{s.label}</option>)}
+            </select>
+          )}
           <Button onClick={() => navigate({ name: 'rows' })}>All rows</Button>
           <Button onClick={exportAll}>Export CSV</Button>
           {serverUp && <Button variant="primary" onClick={() => navigate({ name: 'upload' })}>Upload a page</Button>}

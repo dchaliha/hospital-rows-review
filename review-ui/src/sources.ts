@@ -4,19 +4,24 @@ import { useEffect, useState } from 'react'
 export const BASE = import.meta.env.BASE_URL
 export const withBase = (path: string) => BASE + path.replace(/^\//, '')
 
-export const SOURCES = {
+const ALL_SOURCES = {
   mock: { label: 'Mock batch', url: withBase('data/batch.json') },
   real: { label: 'Providence Valdez pages', url: withBase('data/batch.real.json') },
   uploads: { label: 'Uploaded pages', url: withBase('api/uploads') },
 } as const
 
-export type SourceId = keyof typeof SOURCES
+export type SourceId = keyof typeof ALL_SOURCES
+
+/** Which batches this build offers, e.g. VITE_SOURCES=real for the public site. Default: all. */
+const ALLOWED = ((import.meta.env.VITE_SOURCES as string | undefined) ?? 'mock,real,uploads').split(',').map(s => s.trim()) as SourceId[]
+export const SOURCES = Object.fromEntries(Object.entries(ALL_SOURCES).filter(([id]) => ALLOWED.includes(id as SourceId))) as Record<SourceId, { label: string; url: string }>
+const DEFAULT: SourceId = ALLOWED[0] ?? 'mock'
 
 /** Batch to show: ?source=mock|real|uploads in the URL wins and is remembered; otherwise the last choice. */
 export function readSource(): SourceId {
   const fromUrl = new URLSearchParams(location.search).get('source')
   const s = fromUrl ?? localStorage.getItem('review:source')
-  const id: SourceId = s === 'real' || s === 'uploads' ? s : 'mock'
+  const id: SourceId = s && ALLOWED.includes(s as SourceId) ? (s as SourceId) : DEFAULT
   if (fromUrl) localStorage.setItem('review:source', id)
   return id
 }
