@@ -1,0 +1,27 @@
+{
+  "version": "codebook-sample-14-v1",
+  "labels": [
+    "Food assistance",
+    "Housing assistance",
+    "Education and Workforce",
+    "Vaccine Access",
+    "Mental Health, Substance Use Disorder, Addiction Services",
+    "Crime/Violence",
+    "Smoking/Vaping",
+    "Weight Management and Obesity",
+    "Mobile/Remote Clinics",
+    "Rural Health/Rural Clinics",
+    "Immigrant Health Access",
+    "Women's Health",
+    "Financial/Insurance Assistance",
+    "Safety Net Assistance"
+  ],
+  "noFit": "no fit",
+  "roles": [
+    "runs it",
+    "partners",
+    "funds it",
+    "names it a priority"
+  ],
+  "quoteWordLimit": 40
+}
